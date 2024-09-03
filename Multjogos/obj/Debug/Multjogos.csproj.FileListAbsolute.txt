@@ -1,0 +1,14 @@
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\bin\Debug\Multjogos.exe.config
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\bin\Debug\Multjogos.exe
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\bin\Debug\Multjogos.pdb
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.csproj.AssemblyReference.cache
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.frmLogin.resources
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.frmSobreNos.resources
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.Properties.Resources.resources
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.csproj.GenerateResource.cache
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.csproj.CoreCompileInputs.cache
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.exe
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.pdb
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.frmSplash.resources
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.frmComponentes.resources
+C:\Users\felipe.aoliveira54\Documents\Visual Studio 2019\EmpresaTI112\Multjogos\obj\Debug\Multjogos.frmMenuPrincipal.resources
